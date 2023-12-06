@@ -41,7 +41,7 @@ p{
   font-size: 65px;
   font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight:bold;}
-.button{
+button{
   display: block;
   text-decoration: none;
   margin-right: auto;
@@ -57,8 +57,8 @@ p{
   font-size: 60px;
   transition: tranform 200ms ease-in-out;
 }
-button:hover{background: fuchsia;
-  color: black;
+button:hover{background: #691654;
+  color: #fff;
   font-weight: bold;
   font-family: cursive;
   border: 7px #fff solid;
@@ -66,7 +66,7 @@ button:hover{background: fuchsia;
   height: 120px;
   border-radius: 100px;
   font-size: 60px;
-  transform: scale(1.10);
+  transform: scale(1.15);
   cursor: pointer;
 }
 .continuando{font-family: Comic Sans MS, Comic Sans, cursive;
