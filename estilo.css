@@ -41,7 +41,7 @@ p{
   font-size: 65px;
   font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight:bold;}
-button{
+.button{
   display: block;
   text-decoration: none;
   margin-right: auto;
@@ -57,7 +57,7 @@ button{
   font-size: 60px;
   transition: tranform 200ms ease-in-out;
 }
-button:hover{background: #691654;
+.button:hover{background: #691654;
   color: #fff;
   font-weight: bold;
   font-family: cursive;
