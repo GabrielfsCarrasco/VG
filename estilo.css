@@ -1,62 +1,70 @@
 body{background-color: pink}
-h1{text-align-last: center;
- font-size: 140px; 
+h1{
+  text-align-last: center;
+  font-size: 140px; 
   font-family: cursive;
   font-weight: bold;
   color: blueviolet;
- text-shadow: 6px 1px 0px #FFF;
+  text-shadow: 6px 1px 0px #FFF;
 }
-p{text-align-last: center;
-    text-shadow: 3px 3px 0px #000;
-       color: beige;
-         font-size: 65px;
-          font-family: cursive;
-            font-weight:bold;
+p{
+  text-align-last: center;
+  text-shadow: 3px 3px 0px #000;
+  color: #ace3fb;
+  font-size: 60px;
+  font-family: cursive;
+  font-weight:bold;
+  background-color: beige;
+  width: 800px;
+  margin: auto;
+  border-radius: 300px;
+  padding: 80px 25px 50px 20px;
 }
 #lista{  
   text-align-last: left;
   text-shadow: none;
-            color: mediumpurple;
-               font-size: 50px;
-                  font-family: Comic Sans MS, Comic Sans, cursive;
+  color: mediumpurple;
+  font-size: 70px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight:bold;
   font-style: italic;
   background-color: beige;
-width: 830px;
+  width: 800px;
   margin: auto;
   border-radius: 50px;
-  padding: 5px;
+  padding: 0 0 0 30px;
 }
-#continuando{text-align-last: center;
-    text-shadow: 3px 3px 0px #000;
-       color: beige;
-         font-size: 65px;
-          font-family: Comic Sans MS, Comic Sans, cursive;
-            font-weight:bold;}
-button{
+#continuando{
+  text-align-last: center;
+  text-shadow: 3px 3px 0px #000;
+  color: beige;
+  font-size: 65px;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight:bold;}
+.button{
   display: block;
   text-decoration: none;
   margin-right: auto;
   margin-left: auto;
   background: mediumpurple;
- color: white;
-font-weight: bold;
-font-family: cursive;
-border: 7px #fff solid;
-width: 300x;
-height: 120px;
-border-radius: 100px;
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+  border: 7px #fff solid;
+  width: 300x;
+  height: 120px;
+  border-radius: 100px;
   font-size: 60px;
   transition: tranform 200ms ease-in-out;
 }
 button:hover{background: fuchsia;
- color: black;
-font-weight: bold;
-font-family: cursive;
-border: 7px #fff solid;
-width: 300x;
-height: 120px;
-border-radius: 100px;
+  color: black;
+  font-weight: bold;
+  font-family: cursive;
+  border: 7px #fff solid;
+  width: 300x;
+  height: 120px;
+  border-radius: 100px;
   font-size: 60px;
   transform: scale(1.10);
   cursor: pointer;
@@ -77,9 +85,13 @@ border-radius: 100px;
   font-weight: bold;
   color: blueviolet;
  text-shadow: 6px 1px 0px #FFF}
-#fim{text-align-last: center;
- font-size: 80px; 
+.meses{text-align-last: center;
+ font-size: 100px; 
   font-family: cursive;
   font-weight: bold;
   color: beige;
  text-shadow: 6px 1px 0px #000}
+
+a{
+  text-decoration: none;
+}
