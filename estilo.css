@@ -184,7 +184,6 @@ border: 8px #dcbee0 solid;
   font-size: 60px;
   transform: scale(1.15);
   cursor: pointer;
-visibility: hidden;
 }
 .continuando{font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight: bold;
@@ -232,6 +231,7 @@ visibility: hidden;
   padding: 0 40px 0 35px;
   border-radius: 100px;
   text-shadow: 6px 1px 0px #000;
+  visibility: hidden;
 }
 .meses{text-align-last: center;
  font-size: 100px; 
