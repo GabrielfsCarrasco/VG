@@ -19,3 +19,11 @@ sr.reveal('#p', {duration: 3000});
 sr.reveal('#lista', {duration: 3000});
 
 sr.reveal('.continuando', {duration: 3000});
+
+sr.reveal('.fut', {duration: 3000});
+
+sr.reveal('.sou', {duration: 3000});
+
+sr.reveal('.nam', {duration: 3000});
+
+sr.reveal('.voltar', {duration: 1000});
