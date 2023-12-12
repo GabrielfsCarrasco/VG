@@ -210,7 +210,6 @@ visibility: hidden;}
   font-weight: bold;
   color: #ace3fb;
   text-shadow: 6px 1px 0px #000;
-visibility: hidden;
 }
 .nam{
   text-align-last: center;
@@ -219,7 +218,6 @@ visibility: hidden;
   font-weight: bold;
   color: crimson;
   text-shadow: 6px 1px 0px #000;
-visibility: hidden;
 }
 .fut{
   text-align-last: center;
@@ -231,7 +229,6 @@ visibility: hidden;
   padding: 0 40px 0 35px;
   border-radius: 100px;
   text-shadow: 6px 1px 0px #000;
-  visibility: hidden;
 }
 .meses{text-align-last: center;
  font-size: 100px; 
