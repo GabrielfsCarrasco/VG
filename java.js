@@ -4,7 +4,7 @@ sr.reveal('.h1', {duration: 2000});
 
 sr.reveal('#img', {rotate: {x: 0, y: 80, z:0}, duration: 5500});
 
-sr.reveal('.pg', {rotate: {x: 100, y: 100, z:0}, duration: 3500});
+sr.reveal('.pg', {rotate: {x: 100, y: 80, z:0}, duration: 3500});
 
 sr.reveal('.im', {rotate: {x: 0, y: 0, z:180}, duration: 2000});
 
