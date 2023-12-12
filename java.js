@@ -24,6 +24,6 @@ sr.reveal('.fut', {duration: 3000});
 
 sr.reveal('.sou', {duration: 3000});
 
-sr.reveal('.nam', {duration: 3000});
+sr.reveal('.nam', {rotate: {x: 0, y: 100, z:0}, duration: 1000});
 
 sr.reveal('.voltar', {duration: 1000});
