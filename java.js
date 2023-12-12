@@ -12,7 +12,9 @@ sr.reveal('.fim', {duration: 4000});
 
 sr.reveal('.meses', {duration: 4000});
 
-sr.reveal('.button', {rotate: {x: 0, y: 100, z:0}, duration: 2000});
+sr.reveal('.button', {rotate: {x: 0, y: 100, z:0}, duration: 1000});
+
+sr.reveal('.voltar', {rotate: {x: 0, y: 100, z:0}, duration: 1000});
 
 sr.reveal('#p', {duration: 3000});
 

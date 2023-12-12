@@ -102,7 +102,7 @@ body{background-color: pink}
   font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight:bold;
 border: 8px #dcbee0 solid;
-width: 800px;
+  width: 800px;
   margin: auto;
 }
 .ine{
@@ -146,6 +146,34 @@ width: 800px;
   transition: tranform 200ms ease-in-out;
 }
 .button:hover{background: #691654;
+  color: #fff;
+  font-weight: bold;
+  font-family: cursive;
+  border: 7px #fff solid;
+  width: 300x;
+  height: 120px;
+  border-radius: 100px;
+  font-size: 60px;
+  transform: scale(1.15);
+  cursor: pointer;
+}
+.voltar{
+  display: block;
+  text-decoration: none;
+  margin-right: auto;
+  margin-left: auto;
+  background: mediumpurple;
+  color: white;
+  font-weight: bold;
+  font-family: cursive;
+  border: 7px #fff solid;
+  width: 300x;
+  height: 120px;
+  border-radius: 100px;
+  font-size: 60px;
+  transition: tranform 200ms ease-in-out;
+}
+.voltar:hover{background: #691654;
   color: #fff;
   font-weight: bold;
   font-family: cursive;
