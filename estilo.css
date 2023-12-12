@@ -102,6 +102,8 @@ body{background-color: pink}
   font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight:bold;
 border: 8px #dcbee0 solid;
+width: 800px;
+  margin: auto;
 }
 .ine{
   text-align-last: center;
