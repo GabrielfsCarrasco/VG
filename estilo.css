@@ -105,6 +105,17 @@ border: 8px #dcbee0 solid;
   width: 800px;
   margin: auto;
 }
+.dc{
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-weight: bold;
+  color: yellow;
+  text-shadow: 2px 2px 0px #fff;
+  background-color: #dcbee0;
+  width: 830px;
+  margin: auto;
+  border-radius: 50px;
+  padding: 0 20px 5px 20px;
+}
 .ine{
   text-align-last: center;
   text-shadow: 3px 3px 0px #000;
