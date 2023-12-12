@@ -184,6 +184,7 @@ border: 8px #dcbee0 solid;
   font-size: 60px;
   transform: scale(1.15);
   cursor: pointer;
+visibility: hidden;
 }
 .continuando{font-family: Comic Sans MS, Comic Sans, cursive;
   font-weight: bold;
@@ -194,6 +195,7 @@ border: 8px #dcbee0 solid;
   margin: auto;
   border-radius: 50px;
   padding: 5px;
+visibility: hidden;
 }
 .fim{text-align-last: center;
  font-size: 100px; 
@@ -201,7 +203,7 @@ border: 8px #dcbee0 solid;
   font-weight: bold;
   color: mediumpurple;
   text-shadow: 6px 1px 0px #FFF;
-}
+visibility: hidden;}
 .sou{
   text-align-last: center;
  font-size: 100px; 
@@ -209,6 +211,7 @@ border: 8px #dcbee0 solid;
   font-weight: bold;
   color: #ace3fb;
   text-shadow: 6px 1px 0px #000;
+visibility: hidden;
 }
 .nam{
   text-align-last: center;
@@ -217,6 +220,7 @@ border: 8px #dcbee0 solid;
   font-weight: bold;
   color: crimson;
   text-shadow: 6px 1px 0px #000;
+visibility: hidden;
 }
 .fut{
   text-align-last: center;
@@ -238,6 +242,7 @@ border: 8px #dcbee0 solid;
   padding: 0 40px 0 30px;
   border-radius: 10px;
   text-shadow: 6px 1px 0px #000;
+visibility: hidden;
 }
 
 a{
