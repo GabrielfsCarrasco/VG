@@ -165,6 +165,7 @@ body{background-color: pink}
   border-radius: 100px;
   font-size: 60px;
   transition: tranform 200ms ease-in-out;
+  margin-top: -5px;
 }
 .voltar:hover{background: #691654;
   color: #fff;
