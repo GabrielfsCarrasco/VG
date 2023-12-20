@@ -250,7 +250,9 @@ body{background-color: pink}
   border-radius: 10px;
   text-shadow: 6px 1px 0px #000;
 }
-
+.coracao{
+  padding: 3px;
+}
 a{
   text-decoration: none;
 }
